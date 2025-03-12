@@ -9,6 +9,7 @@ require('../../js/modal.js')
 require('../../js/tooltip.js')
 
 require('../../js/popover.js')
+
 require('../../js/scrollspy.js')
 require('../../js/tab.js')
 require('../../js/affix.js')
